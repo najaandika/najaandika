@@ -2,7 +2,9 @@
 
 🎓 Information Systems Student at UIN Raden Intan Lampung
 
-💻 Passionate about Web Development, UI/UX Design, and Data Analytics
+💻 Interested in Web Development, UI/UX Design, and Data Analytics
+
+🚀 Currently building digital products with Laravel, React, MySQL, and Figma
 
 ## Tech Stack
 
