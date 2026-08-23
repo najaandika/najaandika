@@ -79,7 +79,7 @@ Currently, I am strengthening my skills in full stack development, dashboard int
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode" alt="Figma, Git, GitHub, Vercel, VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="54" height="54" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="48" height="48" />
 </p>
 
 ---
@@ -135,15 +135,15 @@ Supported administrative operations, public service workflows, document organiza
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najaandika&theme=github_dark" alt="Naja Andika GitHub Profile Summary" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=najaandika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Naja Andika GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=najaandika&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="Naja Andika GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najaandika&theme=github_dark" alt="Naja Andika Repositories Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=najaandika&theme=github_dark" alt="Naja Andika Most Commit Language" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaandika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Naja Andika Top Languages" />
 </p>
 
 ---
@@ -193,10 +193,10 @@ Open To:
 ## Connect
 
 <p align="center">
-  <a href="mailto:naja.andika3000@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/naja-andika-447234317"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://github.com/najaandika"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://portfolio-naja-andika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="mailto:naja.andika3000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" /></a>
+  <a href="https://linkedin.com/in/naja-andika-447234317"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" /></a>
+  <a href="https://github.com/najaandika"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" /></a>
+  <a href="https://portfolio-naja-andika.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="48" /></a>
 </p>
 
 ---
