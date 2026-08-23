@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f0c29,45:302b63,100:8E2DE2&amp;text=Naja%20Andika&amp;fontColor=ffffff&amp;fontSize=56&amp;fontAlignY=38&amp;desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Design%20Enthusiast&amp;descAlignY=58&amp;animation=fadeIn" alt="Naja Andika GitHub Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,45:302b63,100:8E2DE2&text=Naja%20Andika&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Design%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Naja Andika GitHub Profile Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full+Stack+Web+Developer;Laravel+%2B+React+%2B+Next.js+%2B+Astro;UI%2FUX+Design+with+Figma;Building+Clean+and+Responsive+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Laravel+%2B+React+%2B+Next.js+%2B+Astro;UI%2FUX+Design+with+Figma;Building+Clean+and+Responsive+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Information%20Systems-UIN%20Raden%20Intan%20Lampung-6D28D9?style=flat-square&amp;logo=academia&amp;logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Developer-4F46E5?style=flat-square&amp;logo=codeigniter&amp;logoColor=white" alt="Full Stack Badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Figma-7C3AED?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="UI UX Badge" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-4338CA?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Information%20Systems-UIN%20Raden%20Intan%20Lampung-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Developer-4F46E5?style=flat-square&logo=codeigniter&logoColor=white" alt="Full Stack Badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Figma-7C3AED?style=flat-square&logo=figma&logoColor=white" alt="UI UX Badge" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-4338CA?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-naja-andika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/naja-andika-447234317"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&amp;logo=linkedin&amp;logoColor=60A5FA" alt="LinkedIn" /></a>
-  <a href="mailto:naja.andika3000@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=F87171" alt="Email" /></a>
-  <a href="https://github.com/najaandika"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://portfolio-naja-andika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/naja-andika-447234317"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+  <a href="mailto:naja.andika3000@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email" /></a>
+  <a href="https://github.com/najaandika"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najaandika&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/najaandika?label=Followers&amp;style=flat-square&amp;color=4f46e5" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/najaandika?label=Stars&amp;style=flat-square&amp;color=8b5cf6" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=najaandika&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/najaandika?label=Followers&style=flat-square&color=4f46e5" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/najaandika?label=Stars&style=flat-square&color=8b5cf6" alt="GitHub Stars" />
 </p>
 
 ---
@@ -53,25 +53,35 @@ Currently, I am strengthening my skills in full stack development, dashboard int
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css" alt="Languages" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **Frontend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite" alt="React, Next.js, Astro, Tailwind CSS, Vite" />
 </p>
 
-**Backend & Database**
+**Backend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql" alt="Backend and Database" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
 </p>
 
-**Design & Tools**
+**Database**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,netlify,linux,vscode,postman" alt="Design and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+**Design, Deploy & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode" alt="Figma, Git, GitHub, Vercel, VS Code" />
 </p>
 
 ---
@@ -105,7 +115,7 @@ Supported administrative operations, public service workflows, document organiza
 <p>
   <img src="https://img.shields.io/badge/Administration-312E81?style=flat-square" alt="Administration" />
   <img src="https://img.shields.io/badge/Data%20Management-4C1D95?style=flat-square" alt="Data Management" />
-  <img src="https://img.shields.io/badge/Excel-166534?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Excel-166534?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Communication-1D4ED8?style=flat-square" alt="Communication" />
 </p>
 
@@ -130,12 +140,11 @@ Supported administrative operations, public service workflows, document organiza
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najaandika&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=E5E7EB&amp;cache_seconds=86400" alt="Naja Andika GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=najaandika&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakLabel=C4B5FD" alt="Naja Andika GitHub Streak" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaandika&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=E5E7EB&amp;cache_seconds=86400" alt="Naja Andika Top Languages" height="220" />
+[![Naja Andika GitHub Stats](https://github-readme-stats.vercel.app/api?username=najaandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB)](https://github.com/najaandika)
+
+[![Naja Andika Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najaandika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB)](https://github.com/najaandika)
+
 </p>
 
 ---
@@ -143,7 +152,7 @@ Supported administrative operations, public service workflows, document organiza
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najaandika&amp;bg_color=0d1117&amp;color=c4b5fd&amp;line=8b5cf6&amp;point=a78bfa&amp;area=true&amp;hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najaandika&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -193,10 +202,10 @@ Open To:
 ## Connect
 
 <p align="center">
-  <a href="mailto:naja.andika3000@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/naja-andika-447234317"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://github.com/najaandika"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="https://portfolio-naja-andika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="mailto:naja.andika3000@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/naja-andika-447234317"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/najaandika"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://portfolio-naja-andika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -206,5 +215,5 @@ Open To:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:8E2DE2,50:4A00E0,100:0f0c29" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8E2DE2,50:4A00E0,100:0f0c29" alt="Footer Banner" />
 </p>
