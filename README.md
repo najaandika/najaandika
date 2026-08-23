@@ -53,7 +53,8 @@ Currently, I am strengthening my skills in full stack development, dashboard int
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css" alt="PHP, JavaScript, TypeScript, HTML, CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="54" height="54" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
 </p>
 
 **Frontend**
@@ -77,7 +78,8 @@ Currently, I am strengthening my skills in full stack development, dashboard int
 **Design, Cloud & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,digitalocean,vscode" alt="Figma, Git, GitHub, Vercel, DigitalOcean, VS Code" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode" alt="Figma, Git, GitHub, Vercel, VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="54" height="54" />
 </p>
 
 ---
@@ -136,11 +138,12 @@ Supported administrative operations, public service workflows, document organiza
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=najaandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Naja Andika GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najaandika&theme=github_dark" alt="Naja Andika GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=najaandika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Naja Andika Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najaandika&theme=github_dark" alt="Naja Andika Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=najaandika&theme=github_dark" alt="Naja Andika Most Commit Language" />
 </p>
 
 ---
