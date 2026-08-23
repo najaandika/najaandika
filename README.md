@@ -137,27 +137,6 @@ Supported administrative operations, public service workflows, document organiza
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najaandika&theme=tokyonight" alt="Naja Andika GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najaandika&theme=tokyonight" alt="Naja Andika Repositories Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=najaandika&theme=tokyonight" alt="Naja Andika Most Commit Language" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najaandika&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
