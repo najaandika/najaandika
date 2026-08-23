@@ -152,9 +152,9 @@ Supported administrative operations, public service workflows, document organiza
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg?v=github-default-20260823" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake.svg?v=github-default-20260823" />
+    <img src="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg?v=github-default-20260823" alt="GitHub Contribution Snake" />
   </picture>
 </p>
 
