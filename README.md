@@ -140,11 +140,12 @@ Supported administrative operations, public service workflows, document organiza
 ## GitHub Analytics
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najaandika&theme=tokyonight" alt="Naja Andika GitHub Profile Summary" />
+</p>
 
-[![Naja Andika GitHub Stats](https://github-readme-stats.vercel.app/api?username=najaandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB)](https://github.com/najaandika)
-
-[![Naja Andika Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najaandika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB)](https://github.com/najaandika)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najaandika&theme=tokyonight" alt="Naja Andika Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=najaandika&theme=tokyonight" alt="Naja Andika Most Commit Language" />
 </p>
 
 ---
