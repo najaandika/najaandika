@@ -138,12 +138,12 @@ Supported administrative operations, public service workflows, document organiza
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=najaandika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Naja Andika GitHub Stats" />
+  <img height="180" src="./profile/stats.svg" alt="Naja Andika GitHub Stats" />
   <img height="180" src="https://streak-stats.demolab.com?user=najaandika&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="Naja Andika GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaandika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Naja Andika Top Languages" />
+  <img height="220" src="./profile/top-langs.svg" alt="Naja Andika Top Languages" />
 </p>
 
 ---
