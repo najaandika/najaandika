@@ -53,44 +53,31 @@ Currently, I am strengthening my skills in full stack development, dashboard int
 **Languages**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css" alt="PHP, JavaScript, TypeScript, HTML, CSS" />
 </p>
 
 **Frontend**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-111827?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite" alt="React, Next.js, Astro, Tailwind CSS, Vite" />
 </p>
 
 **Backend**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
 </p>
 
 **Database**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 **Design, Cloud & Tools**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/DigitalOcean-111827?style=for-the-badge&logo=digitalocean&logoColor=0080FF" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,digitalocean,vscode" alt="Figma, Git, GitHub, Vercel, DigitalOcean, VS Code" />
 </p>
 
 ---
@@ -149,11 +136,11 @@ Supported administrative operations, public service workflows, document organiza
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najaandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Naja Andika GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=najaandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Naja Andika GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaandika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Naja Andika Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=najaandika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Naja Andika Top Languages" />
 </p>
 
 ---
