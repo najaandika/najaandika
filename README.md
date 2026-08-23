@@ -78,10 +78,10 @@ Currently, I am strengthening my skills in full stack development, dashboard int
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
-**Design, Deploy & Tools**
+**Design, Cloud & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode" alt="Figma, Git, GitHub, Vercel, VS Code" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,digitalocean,vscode" alt="Figma, Git, GitHub, Vercel, DigitalOcean, VS Code" />
 </p>
 
 ---
@@ -129,8 +129,8 @@ Supported administrative operations, public service workflows, document organiza
 | --- | --- |
 | Full Stack Development | Building web applications with Laravel, React, Next.js, Astro, MySQL, and Tailwind CSS. |
 | UI/UX Design | Designing modern interfaces and web layouts using Figma. |
+| Cloud Deployment | Deploying frontend projects with Vercel and working with DigitalOcean VPS. |
 | GitHub Student Developer Pack | Access to developer tools and resources for learning and building projects. |
-| Figma Education | Supporting UI/UX learning, design systems practice, and portfolio design workflows. |
 | Academic Final Project | Developing a web-based stock and sales management system using Extreme Programming principles. |
 
 </p>
@@ -188,7 +188,7 @@ Improving:
   - Clean code structure
   - Responsive UI implementation
   - Database-backed web features
-  - Professional developer portfolio
+  - Deployment with Vercel and DigitalOcean VPS
 
 Open To:
   - Full Stack Web Developer roles
