@@ -282,17 +282,13 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ---
 
-<a id="contribution-snake"></a>
+## Contribution Snake
 
-### Contribution snake
-
-<!-- Updated daily via .github/workflows/snake.yml on the profile repository.
-     Custom dark and light palettes use the same navy-teal-cream brand colors. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution graph of najaandika, styled in navy and teal" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg?v=github-default-20260823" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake.svg?v=github-default-20260823" />
+    <img src="https://raw.githubusercontent.com/najaandika/najaandika/output/github-contribution-grid-snake-dark.svg?v=github-default-20260823" alt="GitHub Contribution Snake" />
   </picture>
 </p>
 
