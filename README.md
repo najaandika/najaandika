@@ -301,11 +301,31 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ---
 
-<p align="center"><strong>Let's make something amazing together.</strong><br/><sub>Design &amp; Development · Built with care.</sub></p>
+<p align="center">
+  <sub>INDEPENDENT WEB DEVELOPER · DESIGN &amp; DEVELOPMENT</sub>
+</p>
+
+<h3 align="center">Let's make something amazing together.</h3>
+
+<p align="center">
+  <a href="https://wa.me/6282125461418" title="Say hi to Naja Andika on WhatsApp">Start by saying hi ↗</a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/footer/wordmark-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/footer/wordmark-light.png" />
+    <img src="./profile/footer/wordmark-light.png" width="760" alt="NAJA. — Naja Andika portfolio wordmark" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://portfolio-naja-andika.vercel.app/" title="Portfolio"><img src="./profile/favicon.svg" width="42" height="42" alt="Naja Andika portfolio favicon" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/naja-andika-447234317" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.credly.com/users/naja-andika" title="Credly — verified badges"><img src="./profile/credly.svg" width="42" height="42" alt="Credly badges" /></a>&nbsp;&nbsp;
   <a href="mailto:naja.andika3000@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Naja Andika · Built with care.</sub>
 </p>
