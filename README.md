@@ -9,9 +9,9 @@
       <h1>Naja Andika.</h1>
       <p>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./profile/animations/role-typewriter-dark.gif" />
-          <source media="(prefers-color-scheme: light)" srcset="./profile/animations/role-typewriter-light.gif" />
-          <img src="./profile/animations/role-typewriter-light.gif" width="355" alt="Full-Stack Web Developer — animated typewriter" />
+          <source media="(prefers-color-scheme: dark)" srcset="./profile/animations/role-typewriter-dark-v2.gif" />
+          <source media="(prefers-color-scheme: light)" srcset="./profile/animations/role-typewriter-light-v2.gif" />
+          <img src="./profile/animations/role-typewriter-light-v2.gif" width="355" alt="Full-Stack Web Developer — animated typewriter" />
         </picture>
       </p>
       <p>I build responsive, user-focused web applications with Laravel, React, and thoughtful UI design.</p>
@@ -108,9 +108,9 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/animations/tech-marquee-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/animations/tech-marquee-light.gif" />
-    <img src="./profile/animations/tech-marquee-light.gif" width="820" alt="Animated two-row technology marquee with HTML5, CSS3, JavaScript, React, Tailwind CSS, PHP, Laravel, MySQL, PostgreSQL, VS Code, Git, Figma, MCP, Microsoft Excel, AWS and DigitalOcean moving in opposite directions." />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/animations/tech-marquee-dark-v2.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/animations/tech-marquee-light-v2.gif" />
+    <img src="./profile/animations/tech-marquee-light-v2.gif" width="820" alt="Animated two-row technology marquee with HTML5, CSS3, JavaScript, React, Tailwind CSS, PHP, Laravel, MySQL, PostgreSQL, VS Code, Git, Figma, MCP, Microsoft Excel, AWS and DigitalOcean moving in opposite directions." />
   </picture>
 </p>
 
