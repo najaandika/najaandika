@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="104" viewBox="0 0 760 104" role="img" aria-labelledby="ttl desc">
+  <title id="ttl">Selected work</title>
+  <desc id="desc">Editorial heading in the portfolio's cream, deep navy, and teal palette.</desc>
+  <rect width="760" height="104" rx="12" fill="#F6F5EE"/>
+  <rect x="18" y="19" width="3.5" height="67" rx="1.75" fill="#176F69"/>
+  <text x="41" y="34" fill="#176F69" font-family="Poppins, Inter, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">02  /  PROJECTS</text>
+  <text x="39" y="79" fill="#0B3442" font-family="Poppins, Inter, 'Segoe UI', Arial, sans-serif" font-size="37" font-weight="700" letter-spacing="-1.25">Selected work<tspan fill="#176F69">.</tspan></text>
+  <path d="M687 30h39" fill="none" stroke="#176F69" stroke-width="2" stroke-linecap="round" opacity=".75"/>
+  <circle cx="733" cy="30" r="3" fill="#176F69"/>
+  <path d="M687 40h46" fill="none" stroke="#176F69" stroke-width="1" opacity=".25"/>
+</svg>
