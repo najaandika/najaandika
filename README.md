@@ -7,7 +7,13 @@
     <td width="64%" valign="middle">
       <sub>HELLO, I'M</sub>
       <h1>Naja Andika.</h1>
-      <h3>Full-Stack Web Developer</h3>
+      <p>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./profile/animations/role-typewriter-dark.gif" />
+          <source media="(prefers-color-scheme: light)" srcset="./profile/animations/role-typewriter-light.gif" />
+          <img src="./profile/animations/role-typewriter-light.gif" width="355" alt="Full-Stack Web Developer — animated typewriter" />
+        </picture>
+      </p>
       <p>I build responsive, user-focused web applications with Laravel, React, and thoughtful UI design.</p>
       <p><strong>Information Systems Graduate</strong><br/>Bachelor's Degree · 2026</p>
       <p><a href="https://portfolio-naja-andika.vercel.app/#projects">View My Work ↗</a> &nbsp;·&nbsp; <a href="https://cv-naja-andika.figma.site/">View CV ↗</a></p>
@@ -28,6 +34,8 @@
 
 ### About my work
 
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
+
 I work across **frontend, backend, and product UI**, from interactive websites to database-backed dashboards. My core stack is **Laravel + React**, supported by **Next.js, Astro, Tailwind CSS, MySQL, and Figma**.
 
 I value maintainable code, clear user flows, responsive layouts, and interfaces that solve real business problems.
@@ -40,6 +48,8 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 <sub>02 / PROJECTS</sub>
 
 ### Selected work
+
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
 
 <!-- Project previews come from the deployed portfolio. These are live/design links, not claims of public source availability. -->
 <table>
@@ -94,6 +104,19 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ### Tech stack & tools
 
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/animations/tech-marquee-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/animations/tech-marquee-light.gif" />
+    <img src="./profile/animations/tech-marquee-light.gif" width="820" alt="Animated two-row technology marquee with HTML5, CSS3, JavaScript, React, Tailwind CSS, PHP, Laravel, MySQL, PostgreSQL, VS Code, Git, Figma, MCP, Microsoft Excel, AWS and DigitalOcean moving in opposite directions." />
+  </picture>
+</p>
+
+<details>
+  <summary>View the complete static tech stack</summary>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,laravel,react,nextjs,astro,tailwind,mysql,postgres,vite&theme=light&perline=7" alt="PHP, JavaScript, TypeScript, HTML, CSS, Laravel, React, Next.js, Astro, Tailwind CSS, MySQL, PostgreSQL, and Vite" />
 </p>
@@ -103,6 +126,7 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
 </p>
 
+</details>
 
 ---
 
@@ -110,6 +134,8 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 <sub>04 / JOURNEY</sub>
 
 ### Experience & education
+
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
 
 #### Experience
 
@@ -141,6 +167,8 @@ Focus: **Full-Stack Web Development** and practical information systems.
 <sub>05 / CONTINUOUS LEARNING</sub>
 
 ### Verified credentials
+
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
 
 **10 verified credentials** from Cisco Networking Academy, Google, and Macquarie University. These are the original badge and certificate images used in my portfolio. Click an image to view its public verification page.
 
@@ -212,6 +240,8 @@ Focus: **Full-Stack Web Development** and practical information systems.
 
 ### GitHub analytics
 
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
+
 <!-- These cards fetch GitHub data when their image providers refresh their caches.
      Both palettes match the portfolio, including GitHub's automatic dark/light mode. -->
 <p align="center">
@@ -243,6 +273,8 @@ Focus: **Full-Stack Web Development** and practical information systems.
 <sub>07 / CONTRIBUTIONS</sub>
 
 ### Contribution snake
+
+<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
 
 <!-- Updated daily via .github/workflows/snake.yml on the profile repository.
      Custom dark and light palettes use the same navy-teal-cream brand colors. -->
