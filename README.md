@@ -1,31 +1,42 @@
 <!-- GitHub profile README for github.com/najaandika -->
-<!-- Palette from the actual portfolio: Navy #0B3442 / Teal #176F69 / Cream #F6F5EE -->
+<!-- Matches portfolio's typography and layout; real portrait, not an illustrated banner. -->
+<!-- Navy #0B3442 · Teal #176F69 · Cream #F6F5EE -->
 
-<p align="center">
-  <a href="https://portfolio-naja-andika.vercel.app/" title="Explore Naja Andika's portfolio">
-    <img src="./profile/hero.svg" width="100%" alt="Naja Andika — Full-Stack Web Developer. I build responsive, user-focused web applications with Laravel, React, and thoughtful UI design." />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="64%" valign="middle">
+      <sub>HELLO, I'M</sub>
+      <h1>Naja Andika.</h1>
+      <h3>Full-Stack Web Developer</h3>
+      <p>I build responsive, user-focused web applications with Laravel, React, and thoughtful UI design.</p>
+      <p><strong>Information Systems Graduate</strong><br/>Bachelor's Degree · 2026</p>
+      <p><a href="https://portfolio-naja-andika.vercel.app/#projects">View My Work ↗</a> &nbsp;·&nbsp; <a href="https://cv-naja-andika.figma.site/">View CV ↗</a></p>
+    </td>
+    <td width="36%" align="right" valign="middle">
+      <a href="https://portfolio-naja-andika.vercel.app/" title="Visit Naja Andika's portfolio">
+        <img src="https://portfolio-naja-andika.vercel.app/images/hero-640.webp" width="250" alt="Original portrait of Naja Andika from his portfolio website" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://portfolio-naja-andika.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=light" width="42" height="42" alt="Portfolio website" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/najaandika" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" width="42" height="42" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/naja-andika-447234317" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/naja-andika" title="Credly — verified badges"><img src="./profile/credly.svg" width="42" height="42" alt="Credly badges" /></a>&nbsp;&nbsp;
   <a href="mailto:naja.andika3000@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://cv-naja-andika.figma.site/" title="Curriculum Vitae"><img src="./profile/cv.svg" width="42" height="42" alt="View CV" /></a>
 </p>
 
-
-
 ---
 
-### About me
+### About my work
 
-I'm **Naja Andika**, a **Full-Stack Web Developer** and **Information Systems graduate (2026)** from UIN Raden Intan Lampung. I build practical, responsive applications that connect thoughtful interface design with reliable backend workflows.
+I work across **frontend, backend, and product UI**, from interactive websites to database-backed dashboards. My core stack is **Laravel + React**, supported by **Next.js, Astro, Tailwind CSS, MySQL, and Figma**.
 
-My focus is **Laravel + React**, with experience across **Next.js, Astro, database-backed systems, dashboards, and UI/UX design**. I enjoy turning complex requirements into interfaces that feel clear and easy to use.
+I value maintainable code, clear user flows, responsive layouts, and interfaces that solve real business problems.
 
-Currently open to **freelance projects, internships, and junior web developer opportunities**.
+**Open to:** Junior developer opportunities · Freelance projects · Remote collaboration.
 
 ---
 
@@ -90,7 +101,15 @@ Currently open to **freelance projects, internships, and junior web developer op
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
 </p>
 
+
 ---
+
+### Verified credentials
+
+Selected Cisco Networking Academy credentials with public verification links:
+
+[HTML Essentials](https://www.credly.com/badges/ea5a2f30-e5f4-4c80-810a-cdccd15b301a) · [CSS Essentials](https://www.credly.com/badges/64b72413-8787-4fd4-b499-d3fe777c579e) · [JavaScript Essentials 1](https://www.credly.com/badges/4d50bfcd-36dc-49f9-b825-e1779df27f35) · [JavaScript Essentials 2](https://www.credly.com/badges/d61735aa-0343-4696-a96c-79e60b734d82)
+
 
 ### GitHub analytics
 
@@ -135,9 +154,4 @@ Currently open to **freelance projects, internships, and junior web developer op
 
 ---
 
-<p align="center"><strong>Let's make something amazing together.</strong></p>
-<p align="center">
-  <a href="mailto:naja.andika3000@gmail.com" title="Email Naja Andika"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" height="40" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/naja-andika-447234317" title="Connect on LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://portfolio-naja-andika.vercel.app/" title="Explore portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=light" width="40" height="40" alt="Portfolio" /></a>
-</p>
+<p align="center"><strong>Let's make something amazing together.</strong><br/><sub>Design &amp; Development · Built with care.</sub></p>
