@@ -134,27 +134,45 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 #### Experience
 
-**Web Developer & UI/UX Designer** · Freelance / Client Work
-<sub>Sep 2026 — Present</sub>
-
-Building responsive web solutions for clients, from interface design to development and iteration. Focus: web development and UI/UX design.
-
-**Administrative & Event Support Intern** · Balai Guru Penggerak Lampung
-<sub>Sep — Nov 2024</sub>
-
-Supported visitor services, archives, Excel reporting, event logistics, and registration for activities involving 200+ participants.
-
-**Digital Gaming Services** · Freelance
-<sub>2022 — 2025</sub>
-
-Managed client requests, agreed milestones, deadlines, and progress communication for digital gaming services.
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Web Developer &amp; UI/UX Designer</strong><br />
+      <sub>Freelance · Client Work &nbsp;|&nbsp; Sep 2026 — Present</sub>
+      <p>Building responsive websites and web applications for clients, covering UI/UX design, development, and iterative improvements.</p>
+      <sub>Web Development · UI/UX Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Administrative &amp; Event Support Intern</strong><br />
+      <sub>Balai Guru Penggerak Lampung &nbsp;|&nbsp; Sep — Nov 2024</sub>
+      <p>Supported visitor services, archiving, Excel reporting, event logistics, and registration for activities with 200+ participants.</p>
+      <sub>Operations · Documentation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Digital Gaming Services</strong><br />
+      <sub>Freelance &nbsp;|&nbsp; 2022 — 2025</sub>
+      <p>Managed client requests, agreed milestones, deadlines, and progress updates for digital gaming services.</p>
+      <sub>Client Service · Communication</sub>
+    </td>
+  </tr>
+</table>
 
 #### Education
 
-**B.Sc. Information Systems** · Universitas Islam Negeri Raden Intan Lampung
-<sub>Faculty of Science and Technology · 2021 — 2026</sub>
-
-Focus: **Full-Stack Web Development** and practical information systems.
+<table>
+  <tr>
+    <td valign="top">
+      <strong>B.Sc. Information Systems</strong><br />
+      <sub>Universitas Islam Negeri Raden Intan Lampung &nbsp;|&nbsp; 2021 — 2026</sub>
+      <p>Faculty of Science and Technology<br />
+      <strong>Focus:</strong> Full-Stack Web Development</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
