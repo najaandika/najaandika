@@ -115,16 +115,11 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 </p>
 
 <details>
-  <summary>View the complete static tech stack</summary>
+  <summary>View the complete tech stack (text-only)</summary>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,laravel,react,nextjs,astro,tailwind,mysql,postgres,vite&theme=light&perline=7" alt="PHP, JavaScript, TypeScript, HTML, CSS, Laravel, React, Next.js, Astro, Tailwind CSS, MySQL, PostgreSQL, and Vite" />
-</p>
+**Frontend & backend:** PHP · Laravel · JavaScript · TypeScript · React · Next.js · Astro · HTML · CSS · Tailwind CSS · MySQL · PostgreSQL · Vite
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,aws&theme=light&perline=7" alt="Figma, Git, GitHub, VS Code, Vercel, and AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
-</p>
+**Tools & workflow:** Figma · Git · GitHub · VS Code · Vercel · AWS · DigitalOcean · MCP · Microsoft Excel
 
 </details>
 
