@@ -23,7 +23,8 @@
 
 ---
 
-### About my work
+<a id="about-my-work"></a>
+### <img src="./profile/headings/about.svg" alt="About my work" width="760" />
 
 I work across **frontend, backend, and product UI**, from interactive websites to database-backed dashboards. My core stack is **Laravel + React**, supported by **Next.js, Astro, Tailwind CSS, MySQL, and Figma**.
 
@@ -33,7 +34,8 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ---
 
-### Selected work
+<a id="selected-work"></a>
+### <img src="./profile/headings/work.svg" alt="Selected work" width="760" />
 
 <!-- Project previews come from the deployed portfolio. These are live/design links, not claims of public source availability. -->
 <table>
@@ -83,7 +85,8 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ---
 
-### Tech stack & tools
+<a id="tech-stack-tools"></a>
+### <img src="./profile/headings/stack.svg" alt="Tech stack & tools" width="760" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,laravel,react,nextjs,astro,tailwind,mysql,postgres,vite&theme=light&perline=7" alt="PHP, JavaScript, TypeScript, HTML, CSS, Laravel, React, Next.js, Astro, Tailwind CSS, MySQL, PostgreSQL, and Vite" />
@@ -97,7 +100,8 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ---
 
-### Experience & education
+<a id="experience-education"></a>
+### <img src="./profile/headings/experience.svg" alt="Experience & education" width="760" />
 
 #### Experience
 
@@ -125,7 +129,8 @@ Focus: **Full-Stack Web Development** and practical information systems.
 
 ---
 
-### Verified credentials
+<a id="verified-credentials"></a>
+### <img src="./profile/headings/credentials.svg" alt="Verified credentials" width="760" />
 
 **10 verified credentials** from Cisco Networking Academy, Google, and Macquarie University. These are the original badge and certificate images used in my portfolio. Click an image to view its public verification page.
 
@@ -196,7 +201,8 @@ Focus: **Full-Stack Web Development** and practical information systems.
 
 ---
 
-### GitHub analytics
+<a id="github-analytics"></a>
+### <img src="./profile/headings/analytics.svg" alt="GitHub analytics" width="760" />
 
 <!-- These cards fetch GitHub data when their image providers refresh their caches.
      Both palettes match the portfolio, including GitHub's automatic dark/light mode. -->
@@ -225,7 +231,8 @@ Focus: **Full-Stack Web Development** and practical information systems.
 
 ---
 
-### Contribution snake
+<a id="contribution-snake"></a>
+### <img src="./profile/headings/snake.svg" alt="Contribution snake" width="760" />
 
 <!-- Updated daily via .github/workflows/snake.yml on the profile repository.
      Custom dark and light palettes use the same navy-teal-cream brand colors. -->
