@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="cv-title">
+  <title id="cv-title">Curriculum Vitae</title>
+  <rect width="48" height="48" rx="10" fill="#F6F5EE" stroke="#D8E5DF"/>
+  <path d="M15 10h13l7 7v20a2 2 0 0 1-2 2H15a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2Z" fill="none" stroke="#0B3442" stroke-width="2.1" stroke-linejoin="round"/>
+  <path d="M28 10v8h7M19 25h10M19 30h9" stroke="#176F69" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
