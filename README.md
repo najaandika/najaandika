@@ -20,12 +20,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://portfolio-naja-andika.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=light" width="42" height="42" alt="Portfolio website" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/naja-andika-447234317" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/naja-andika" title="Credly — verified badges"><img src="./profile/credly.svg" width="42" height="42" alt="Credly badges" /></a>&nbsp;&nbsp;
-  <a href="mailto:naja.andika3000@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email" /></a>
-</p>
 
 ---
 
@@ -154,3 +148,10 @@ Selected Cisco Networking Academy credentials with public verification links:
 ---
 
 <p align="center"><strong>Let's make something amazing together.</strong><br/><sub>Design &amp; Development · Built with care.</sub></p>
+
+<p align="center">
+  <a href="https://portfolio-naja-andika.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=light" width="42" height="42" alt="Portfolio website" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/naja-andika-447234317" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/naja-andika" title="Credly — verified badges"><img src="./profile/credly.svg" width="42" height="42" alt="Credly badges" /></a>&nbsp;&nbsp;
+  <a href="mailto:naja.andika3000@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email" /></a>
+</p>
