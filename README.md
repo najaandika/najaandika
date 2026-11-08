@@ -283,11 +283,8 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 ---
 
 <a id="contribution-snake"></a>
-<sub>07 / CONTRIBUTIONS</sub>
 
 ### Contribution snake
-
-<p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
 
 <!-- Updated daily via .github/workflows/snake.yml on the profile repository.
      Custom dark and light palettes use the same navy-teal-cream brand colors. -->
@@ -313,9 +310,9 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/footer/wordmark-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/footer/wordmark-light.png" />
-    <img src="./profile/footer/wordmark-light.png" width="760" alt="NAJA. — Naja Andika portfolio wordmark" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/footer/wordmark-dark-transparent.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/footer/wordmark-light-transparent.png" />
+    <img src="./profile/footer/wordmark-light-transparent.png" width="760" alt="NAJA. — Naja Andika portfolio wordmark" />
   </picture>
 </p>
 
