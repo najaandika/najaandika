@@ -1,30 +1,36 @@
-name: Generate Contribution Snake
+# Rebuild the contribution grid from the current GitHub contribution data.
+# Light theme: cream background + teal activity; dark theme: navy + aqua.
+name: Generate Contribution Snake (Navy & Teal)
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # daily, 00:00 UTC / 07:00 WIB (may be delayed by GitHub)
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
 
     steps:
-      - name: Generate snake SVG
+      - name: Generate branded dark and light SVG animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: najaandika
+          github_token: ${{ github.token }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#176F69&color_dots=#F6F5EE,#DCEBE5,#B8D9CE,#74B5A8,#0B3442
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#2DD4BF&color_dots=#0B3442,#16404A,#226574,#289589,#7DDBCA
 
-      - name: Push snake SVG to output branch
+      - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
