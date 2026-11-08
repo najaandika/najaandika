@@ -97,12 +97,60 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 ---
 
+### Experience & education
+
+#### Experience
+
+**Web Developer & UI/UX Designer** · Freelance / Client Work
+<sub>Sep 2026 — Present</sub>
+
+Building responsive web solutions for clients, from interface design to development and iteration. Focus: web development and UI/UX design.
+
+**Administrative & Event Support Intern** · Balai Guru Penggerak Lampung
+<sub>Sep — Nov 2024</sub>
+
+Supported visitor services, archives, Excel reporting, event logistics, and registration for activities involving 200+ participants.
+
+**Digital Gaming Services** · Freelance
+<sub>2022 — 2025</sub>
+
+Managed client requests, agreed milestones, deadlines, and progress communication for digital gaming services.
+
+#### Education
+
+**B.Sc. Information Systems** · Universitas Islam Negeri Raden Intan Lampung
+<sub>Faculty of Science and Technology · 2021 — 2026</sub>
+
+Focus: **Full-Stack Web Development** and practical information systems.
+
+---
+
 ### Verified credentials
 
-Selected Cisco Networking Academy credentials with public verification links:
+**10 completed courses** across Cisco Networking Academy, Google, and Macquarie University. Each entry links to its public credential verification page.
 
-[HTML Essentials](https://www.credly.com/badges/ea5a2f30-e5f4-4c80-810a-cdccd15b301a) · [CSS Essentials](https://www.credly.com/badges/64b72413-8787-4fd4-b499-d3fe777c579e) · [JavaScript Essentials 1](https://www.credly.com/badges/4d50bfcd-36dc-49f9-b825-e1779df27f35) · [JavaScript Essentials 2](https://www.credly.com/badges/d61735aa-0343-4696-a96c-79e60b734d82)
+#### Web development
 
+- [HTML Essentials](https://www.credly.com/badges/ea5a2f30-e5f4-4c80-810a-cdccd15b301a) — Cisco Networking Academy · 02 Sep 2026
+- [CSS Essentials](https://www.credly.com/badges/64b72413-8787-4fd4-b499-d3fe777c579e) — Cisco Networking Academy · 02 Sep 2026
+- [JavaScript Essentials 1](https://www.credly.com/badges/4d50bfcd-36dc-49f9-b825-e1779df27f35) — Cisco Networking Academy · 03 Sep 2026
+- [JavaScript Essentials 2](https://www.credly.com/badges/d61735aa-0343-4696-a96c-79e60b734d82) — Cisco Networking Academy · 03 Sep 2026
+
+#### IT & support
+
+- [Operating Systems Basics](https://www.credly.com/badges/3ab11ea0-0457-416a-ae22-036299c8adf3) — Cisco Networking Academy · 03 Sep 2026
+- [Computer Hardware Basics](https://www.credly.com/badges/efc48803-d3c7-49f2-b22d-400fff1c8696) — Cisco Networking Academy · 02 Sep 2026
+- [IT Customer Support Basics](https://www.credly.com/badges/317b5eb7-30e1-49c0-803c-a9a7bad3637b) — Cisco Networking Academy · 01 Sep 2026
+- [Technical Support Fundamentals](https://www.coursera.org/verify/JSAB0CEKIF8Y) — Google · Coursera · 29 Aug 2026
+
+#### Data & business
+
+- [Foundations: Data, Data, Everywhere](https://www.coursera.org/verify/3N3YL7IMMCB3) — Google · Coursera · 05 Aug 2026
+- [Excel Skills for Business: Essentials](https://www.coursera.org/verify/FVP4GV07CU34) — Macquarie University · Coursera · 03 Aug 2026
+
+[Explore my Credly profile](https://www.credly.com/users/naja-andika) for Cisco digital badges. Google and Macquarie University course certificates link to Coursera verification.
+
+---
 
 ### GitHub analytics
 
