@@ -16,11 +16,11 @@
       </p>
       <p>I build responsive, user-focused web applications with Laravel, React, and thoughtful UI design.</p>
       <p><strong>Information Systems Graduate</strong><br/>Bachelor's Degree · 2026</p>
-      <p><a href="https://portfolio-naja-andika.vercel.app/#projects">View My Work ↗</a> &nbsp;·&nbsp; <a href="https://cv-naja-andika.figma.site/">View CV ↗</a></p>
+      <p><a href="https://www.najaandika.my.id/#projects">View My Work ↗</a> &nbsp;·&nbsp; <a href="https://cv-naja-andika.figma.site/">View CV ↗</a></p>
     </td>
     <td width="36%" align="right" valign="middle">
-      <a href="https://portfolio-naja-andika.vercel.app/" title="Visit Naja Andika's portfolio">
-        <img src="https://portfolio-naja-andika.vercel.app/images/hero-640.webp" width="250" alt="Original portrait of Naja Andika from his portfolio website" />
+      <a href="https://www.najaandika.my.id/" title="Visit Naja Andika's portfolio">
+        <img src="https://www.najaandika.my.id/images/hero-640.webp" width="250" alt="Original portrait of Naja Andika from his portfolio website" />
       </a>
     </td>
   </tr>
@@ -55,14 +55,14 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://ac-service-website-one.vercel.app/"><img src="https://portfolio-naja-andika.vercel.app/images/project-service-ac-960.webp" width="100%" alt="AC and electronics service website preview" /></a>
+      <a href="https://ac-service-website-one.vercel.app/"><img src="https://www.najaandika.my.id/images/project-service-ac-960.webp" width="100%" alt="AC and electronics service website preview" /></a>
       <strong>AC &amp; Electronics Service Website</strong><br />
       Responsive service website, clearer service discovery, and WhatsApp booking flow.<br />
       <sub>Astro · Tailwind CSS · Responsive UI</sub><br />
       <a href="https://ac-service-website-one.vercel.app/">Live preview ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://bhd-hero.vercel.app/"><img src="https://portfolio-naja-andika.vercel.app/images/project-bhd-hero-optimized.webp" width="100%" alt="BHD Hero gamification learning platform preview" /></a>
+      <a href="https://bhd-hero.vercel.app/"><img src="https://www.najaandika.my.id/images/project-bhd-hero-optimized.webp" width="100%" alt="BHD Hero gamification learning platform preview" /></a>
       <strong>BHD Gamification Learning Platform</strong><br />
       Interactive, gamified first-aid learning experience.<br />
       <sub>React · Laravel · Gamification</sub><br />
@@ -71,18 +71,18 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://e-commerce-mobile.figma.site/"><img src="https://portfolio-naja-andika.vercel.app/images/project-fashion-app-optimized.webp" width="100%" alt="Fashion shopping app and admin dashboard preview" /></a>
+      <a href="https://e-commerce-mobile.figma.site/"><img src="https://www.najaandika.my.id/images/project-fashion-app-optimized.webp" width="100%" alt="Fashion shopping app and admin dashboard preview" /></a>
       <strong>Fashion Shopping App &amp; Admin Dashboard</strong><br />
       E-commerce experience with order tracking and staff management.<br />
       <sub>React · TypeScript · UI/UX</sub><br />
       <a href="https://e-commerce-mobile.figma.site/">Interactive design ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://portfolio-naja-andika.vercel.app/#projects"><img src="https://portfolio-naja-andika.vercel.app/images/project-pos-optimized.webp" width="100%" alt="Restaurant POS and QR table ordering project preview" /></a>
+      <a href="https://www.najaandika.my.id/#projects"><img src="https://www.najaandika.my.id/images/project-pos-optimized.webp" width="100%" alt="Restaurant POS and QR table ordering project preview" /></a>
       <strong>POS Counter &amp; QR Table Ordering</strong><br />
       Restaurant POS with QR self-ordering, kitchen queues, and owner workflows.<br />
       <sub>Laravel · React · TypeScript · MySQL</sub><br />
-      <a href="https://portfolio-naja-andika.vercel.app/#projects">In development · Case study ↗</a>
+      <a href="https://www.najaandika.my.id/#projects">In development · Case study ↗</a>
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
   </p>
 </details>
 
-<p align="right"><a href="https://portfolio-naja-andika.vercel.app/#projects">Explore all projects ↗</a></p>
+<p align="right"><a href="https://www.najaandika.my.id/#projects">Explore all projects ↗</a></p>
 
 ---
 
@@ -244,7 +244,7 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
   </tr>
 </table>
 
-[View all my Credly badges](https://www.credly.com/users/naja-andika) · [Explore certifications on my portfolio](https://portfolio-naja-andika.vercel.app/#certifications)
+[View all my Credly badges](https://www.credly.com/users/naja-andika) · [Explore certifications on my portfolio](https://www.najaandika.my.id/#certifications)
 
 ---
 
@@ -313,7 +313,7 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 </p>
 
 <p align="center">
-  <a href="https://portfolio-naja-andika.vercel.app/" title="Portfolio"><img src="./profile/favicon.svg" width="42" height="42" alt="Naja Andika portfolio favicon" /></a>&nbsp;&nbsp;
+  <a href="https://www.najaandika.my.id/" title="Portfolio"><img src="./profile/favicon.svg" width="42" height="42" alt="Naja Andika portfolio favicon" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/naja-andika-447234317" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.credly.com/users/naja-andika" title="Credly — verified badges"><img src="./profile/credly.svg" width="42" height="42" alt="Credly badges" /></a>&nbsp;&nbsp;
   <a href="mailto:naja.andika3000@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email" /></a>
