@@ -51,31 +51,31 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 
 <p><img src="./profile/animations/section-underline.gif" width="126" height="10" alt="" /></p>
 
-<!-- Project previews come from the deployed portfolio. These are live/design links, not claims of public source availability. -->
+<!-- Project previews come from the deployed portfolio. Live demos and interactive designs are not claims of publicly available source code. -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://ac-service-website-one.vercel.app/"><img src="https://www.najaandika.my.id/images/project-service-ac-960.webp" width="100%" alt="AC and electronics service website preview" /></a>
       <strong>AC &amp; Electronics Service Website</strong><br />
-      Responsive service website, clearer service discovery, and WhatsApp booking flow.<br />
+      Responsive service website with streamlined service discovery and WhatsApp booking.<br />
       <sub>Astro · Tailwind CSS · Responsive UI</sub><br />
       <a href="https://ac-service-website-one.vercel.app/">Live preview ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://bhd-hero.vercel.app/"><img src="https://www.najaandika.my.id/images/project-bhd-hero-optimized.webp" width="100%" alt="BHD Hero gamification learning platform preview" /></a>
-      <strong>BHD Gamification Learning Platform</strong><br />
-      Interactive, gamified first-aid learning experience.<br />
-      <sub>React · Laravel · Gamification</sub><br />
-      <a href="https://bhd-hero.vercel.app/">Live preview ↗</a>
+      <a href="https://jblstore.vercel.app/"><img src="https://www.najaandika.my.id/images/project-jbl-960.webp" width="100%" alt="JBL Concept Store audio storefront laptop mockup" /></a>
+      <strong>JBL Concept Store — Interactive Audio Storefront</strong><br />
+      Immersive audio shopping concept with WebGL motion, product galleries, and simulated cart and checkout flows.<br />
+      <sub>React · Vite · GSAP · WebGL</sub><br />
+      <a href="https://jblstore.vercel.app/">Live preview ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://e-commerce-mobile.figma.site/"><img src="https://www.najaandika.my.id/images/project-fashion-app-optimized.webp" width="100%" alt="Fashion shopping app and admin dashboard preview" /></a>
-      <strong>Fashion Shopping App &amp; Admin Dashboard</strong><br />
-      E-commerce experience with order tracking and staff management.<br />
-      <sub>React · TypeScript · UI/UX</sub><br />
-      <a href="https://e-commerce-mobile.figma.site/">Interactive design ↗</a>
+      <a href="https://line-up-store.vercel.app/"><img src="https://www.najaandika.my.id/images/project-lineup-960.webp" width="100%" alt="LINEUP editorial fashion storefront laptop mockup" /></a>
+      <strong>LINEUP — Editorial Fashion Storefront</strong><br />
+      Runway-inspired fashion storefront with curated collections, product colourways, wishlist, and cart interactions.<br />
+      <sub>React · TypeScript · React Router · Zustand</sub><br />
+      <a href="https://line-up-store.vercel.app/">Live preview ↗</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.najaandika.my.id/#projects"><img src="https://www.najaandika.my.id/images/project-pos-optimized.webp" width="100%" alt="Restaurant POS and QR table ordering project preview" /></a>
@@ -90,6 +90,7 @@ I value maintainable code, clear user flows, responsive layouts, and interfaces 
 <details>
   <summary><strong>More projects</strong></summary>
   <p>
+    <a href="https://e-commerce-mobile.figma.site/">Fashion Shopping App &amp; Admin Dashboard</a> — interactive fashion shopping and admin design concept.<br />
     <a href="https://moderen-e-commerce.figma.site/">E-Commerce Storefront Web UI</a> — responsive storefront and checkout concept.<br />
     <a href="https://parcelify.figma.site/">Parcel — Multi-Role Delivery App</a> — customer, courier, and admin experiences.
   </p>
